@@ -1,0 +1,26 @@
+{
+  "name": "minecraft-color-codes",
+  "version": "1.0.0",
+  "description": "minecraft-color-codes\r ========",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc --project tsconfig.json",
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filip9696/minecraft-color-codes.git"
+  },
+  "author": "Filip96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Filip9696/minecraft-color-codes/issues"
+  },
+  "homepage": "https://github.com/Filip9696/minecraft-color-codes#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
+}
